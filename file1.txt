@@ -1,4 +1,4 @@
-Color is BLUE
+Color is RED
 
 This is a new line of code.
 
