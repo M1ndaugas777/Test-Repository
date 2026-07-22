@@ -1,1 +1,10 @@
 added something
+<<<<<<< HEAD
+=======
+
+added something more
+
+this is even more things
+
+wtf
+>>>>>>> fd7a4a9 ( wtf wtf)
